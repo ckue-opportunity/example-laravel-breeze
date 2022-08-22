@@ -26,10 +26,10 @@
     </head>
     <body class="antialiased">
         <div class="brown">
-            <h1>Hello I am a text.</h1>
+            <h1>Hello there!</h1>
         </div>
         <div class="alert alert-primary" role="alert">
-            Bootstrap Proof: A simple primary alert—check it out!
+            This is a test site.
         </div>
 
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
